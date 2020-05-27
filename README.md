@@ -1,2 +1,2 @@
-# YOUR-GITHUB-QColeman16.github.io
+# QColeman16.github.io
 My GitHub Pages Site
